@@ -1,0 +1,4 @@
+- insert:
+    - id: opencode-go-usage
+      name: '@local/dsh-opencode-go-usage'
+      config: {}
